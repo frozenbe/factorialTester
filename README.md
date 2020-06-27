@@ -33,5 +33,10 @@ $ cd appium
 $ mvn verify
 ```
 
+# Positive path test run
+![Positive path](factorial positive path test.gif)
 
+
+# Negative path test run
+![Negative path](factorial negative path test.gif.gif)
 
