@@ -34,9 +34,9 @@ $ mvn verify
 ```
 
 # Positive path test run
-![Positive path](factorial positive path test.gif)
+![Positive path](https://github.com/frozenbe/factorialTester/raw/master/factorial%20positive%20path%20test.gif)
 
 
 # Negative path test run
-![Negative path](factorial negative path test.gif.gif)
+![Negative path](https://github.com/frozenbe/factorialTester/raw/master/factorial%20negative%20path%20test.gif)
 
